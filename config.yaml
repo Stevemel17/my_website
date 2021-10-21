@@ -93,7 +93,7 @@ params:
         title: My group
         url: blogs/group
       - image: pr_name.png
-        subtitle: Data analytics on acommodation prices in Amsterdam
+        subtitle: Data analytics on accommodation prices in Amsterdam
         title: Our AirBnB analytics
         url: blogs/project
 #      - image: pic05.jpg
