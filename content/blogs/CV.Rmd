@@ -1,0 +1,21 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:26:13-05:00"
+description: Here is my CV in non-LBS format just because I can
+draft: false
+image: cv_icon.png
+keywords: ""
+slug: cv
+title: My CV
+---
+```{r, echo=FALSE}
+knitr::include_graphics("/img/blogs/CV.png", error = FALSE)
+```
+
+And here is a photo of the office where I worked this summer:
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/blogs/office.jpg", error = FALSE)
+```

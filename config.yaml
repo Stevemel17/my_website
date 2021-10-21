@@ -6,40 +6,40 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Get to know me
     subtitle: |-
       Some insight into my professional and personal life
-    title: Hi, my name is not Forty (more of Steven, tbh)
+    title: Hi, my name is not Forty (more of Steven or Stepan, tbh)
   blog: {Stepan Emelianenko}
   contact:
     address:
       - city: Cannes, 06400
         country: France
         street: 1 Boulevard de la Croisette
-        title: Address
-    buttonClear: Clear
-    buttonSend: Send message
+        title: Address (not mine, but you should go there)
+    buttonClear: Oh my God, what happened, how to erase?
+    buttonSend: Git push
     email:
       - email: semelianenko.mfa2022@london.edu
-        title: Email
+        title: LBS Email
     enable: yes
-#    phone:
-#      - phone: (000) 000-0000 x1234
-#        title: Phone
+    phone:
+      - phone: +7 (800) 700 5050
+        title: National Antidrug Unit Phone (it could help somebody)
   custom_css: []
   custom_js: []
-  description: Your description
+  description: I don't know where it appears :)
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      - alt: LBS
+        text: 'LBS website: '
+        url: https://www.london.edu
     social:
 #      - icon: fa-twitter
 #        label: Twitter
@@ -57,61 +57,64 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/stepan-emelianenko/
   image: ''
-  name: Your name
+  name: Stepan Emelianenko
   navigation:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
-      - name: Home
+      - name: Starting page
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: My CV
+        url: blogs/cv
+      - name: My group
+        url: blogs/group
+#      - name: Elements
+#        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: site
+    title: Web
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+      - image: office.jpg
+        subtitle: Take a look at my CV
+        title: CV
+        url: blogs/cv
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Learn more about me!
+        title: My interests
+        url: blogs/interests
+      - image: p1.png
+        subtitle: Learn more about Group A06
+        title: My group
+        url: blogs/group
+      - image: pr_name.png
+        subtitle: Data analytics on acommodation prices in Amsterdam
+        title: Our AirBnB analytics
+        url: blogs/project
+#      - image: pic05.jpg
+#        subtitle: Ipsum Dolor Sit Amet
+#        title: Consequat
+#        url: blogs/ipsum
+#      - image: pic06.jpg
+#        subtitle: Feugiat Amet Tempus
+#        title: Etiam
+#        url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: Go straight to the content
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "All in all, I liked the material of the course and Kostis in particular.
+    His approach is engaging and unique which makes you want to study.
+    However, I doubt the timing of the course and its relevance for MFA right now.
+    I have spent all the classes staring into my screen and doing my applications instead
+    studying. I have learnt far less than I could have learnt, unfortunately, as I
+    had to prepare for interviews (which I have not gotten yet, but I still hope for
+    something). Thnaks God and admin staff that we can replay the course and restudy it on
+    Christmas holidays. Anyway, please find some things I learnt on this website. I
+    can only thank you for hard work and 24/7 support and continue my tries to find a job :)"
+    title: My thoughts on the course
     url: blogs

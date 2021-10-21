@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: This is my "everywhere photo". I use it as all social media profile pics, on my IDs and applications. It's the only acceptable picture of me.
 draft: false
-image: pic10.jpg
+image: photo2.png
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: photo
+title: My mostly used photo
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+This is my "everywhere photo". I use it as all social media profile pics, on my IDs and applications. It's the only acceptable picture of me.

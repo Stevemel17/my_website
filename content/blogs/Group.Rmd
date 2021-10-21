@@ -1,0 +1,28 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T21:28:43-05:00"
+description: I am on stream A in group 6. I love my groupmates and I believe that we formed a strong bond
+draft: false
+image: p1.png
+keywords: ""
+slug: group
+title: My wonderful study group
+---
+
+Actually, there are 7 of us, but we did not manage to get a picture of us all :(
+
+Anyway, we always work together and support each other. For example, here is a photo of us preparing for the presentation of our final group project:
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/blogs/p2.png", error = FALSE)
+```
+
+We made an enormous input in our project and decided to go to our destination city in spring! Hence, this task was extremely useful for us to plan our trip :)
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/blogs/pr_name.png", error = FALSE)
+```
+
+[Click here to learn about our project](blogs/project)

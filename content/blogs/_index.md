@@ -1,9 +1,9 @@
 ---
 date: "2017-10-31T22:27:21-05:00"
 draft: false
-image: pic02.jpg
+image: LBS.jpg
 slug: blogs
-title: Lifestyle
+title: Overview of the files
 ---
 
-My blogs about technology and lifestyle.
+I have my CV as well as my diploma, data analytics project, and extracurricular activities here.
